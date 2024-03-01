@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shady Mulla
+Hi ![](![image](https://github.com/verasolo1/verasolo1/assets/30853881/8d43c861-4070-4be3-9b95-77be93835ddc)
+)My name is Shady Mulla
 ===================================================================================================================================
 
 I am a Computer Science Student
