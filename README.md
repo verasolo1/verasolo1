@@ -1,5 +1,4 @@
-Hi ![](![image](https://github.com/verasolo1/verasolo1/assets/30853881/8d43c861-4070-4be3-9b95-77be93835ddc)
-)My name is Shady Mulla
+Hi ![](![image]([https://github.com/verasolo1/verasolo1/assets/30853881/8d43c861-4070-4be3-9b95-77be93835ddc](https://static-00.iconduck.com/assets.00/waving-hand-emoji-512x505-s43lrnnl.png)))My name is Shady Mulla
 ===================================================================================================================================
 
 I am a Computer Science Student
