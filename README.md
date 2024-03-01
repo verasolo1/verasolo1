@@ -8,14 +8,14 @@ I'm deeply passionate about cybersecurity, both in the academic realm and throug
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [V3RA0x01@gmail.com](mailto:V3RA0x01@gmail.com)
-* 🧠  I'm learning the fundamentals of the cybersecurity fields, in areas such as network security, cryptography, penetration testing, digital forensics and incident response
+* 🧠  I'm learning the fundamentals of the cybersecurity fields, in areas such as network security, cryptography, penetration testing, digital forensics, and incident response..etc.
 * 🤝  I'm open to collaborating on anything that could help me advance towards my goals, or sharing my knowledge with others, as long as it aligns with my interests and capabilities.
 
 <a href="https://www.x.com/verasolo11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/verasolo11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+### Skills I am working on
 
 
 <p align="left">
