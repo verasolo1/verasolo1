@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shady Mulla
 ===================================================================================================================================
 
-I am a Computer Scince Student
+I am a Computer Science Student
 -----------------------
 
 I'm deeply passionate about cybersecurity, both in the academic realm and through self-directed study. My ultimate ambition? To secure a master's degree in cybersecurity. I'm fully immersed in the intricacies of this field, aiming for a comprehensive grasp of its methodologies and techniques. Moreover, I find immense joy in exploring emerging technologies and keeping pace with the latest developments in the tech landscape. Always eager to engage in discussions and collaborate with like-minded individuals to broaden my insights and deepen my understanding.
