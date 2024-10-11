@@ -4,7 +4,7 @@ Hi. My name is Shady Mulla
 I am a Computer Science Student
 -----------------------
 
-I'm deeply passionate about cybersecurity, both in the academic realm and through self-directed study. My ultimate ambition? To secure a master's degree in cybersecurity. I'm fully immersed in the intricacies of this field, aiming for a comprehensive grasp of its methodologies and techniques. Moreover, I find immense joy in exploring emerging technologies and keeping pace with the latest developments in the tech landscape. Always eager to engage in discussions and collaborate with like-minded individuals to broaden my insights and deepen my understanding.
+I'm deeply passionate about cybersecurity, both in the academic realm and through self-directed study. My ultimate ambition? To secure a perfect job in cybersecurity. I'm fully immersed in the intricacies of this field, aiming for a comprehensive grasp of its methodologies and techniques. Moreover, I find immense joy in exploring emerging technologies and keeping pace with the latest developments in the tech landscape. Always eager to engage in discussions and collaborate with like-minded individuals to broaden my insights and deepen my understanding.
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [V3RA0x01@gmail.com](mailto:V3RA0x01@gmail.com)
