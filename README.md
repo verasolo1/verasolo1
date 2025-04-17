@@ -21,10 +21,7 @@ I'm deeply passionate about cybersecurity, both in the academic realm and throug
 
 <a href="http://www.github.com/verasolo1"><img src="https://github-readme-stats.vercel.app/api?username=verasolo1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="verasolo1's GitHub stats" /></a>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/v3ra0x01"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
