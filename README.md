@@ -1,6 +1,4 @@
 
- Computer Science Student
------------------------
 
 I am determined to establish myself as a knowledgeable professional in Cybersecurity.
 
